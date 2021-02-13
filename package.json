@@ -31,7 +31,7 @@
   "dependencies": {
     "load-script": "^1.0.0",
     "prop-types": "^15.6.0",
-    "react": "^16.0.0"
+    "react": "^17.0.1"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
